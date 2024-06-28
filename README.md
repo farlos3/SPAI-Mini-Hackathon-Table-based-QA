@@ -1,4 +1,4 @@
-# Try-RAG-Ollama <img src="https://github.com/Farlos3/Try-RAG-Ollama/assets/86741684/28d8eeef-77cb-4701-bb0b-09b06cec40fb" alt="image" width="25"/>
+# Try-RAG-Ollama <img src="https://github.com/Farlos3/Try-RAG-Ollama/assets/86741684/28d8eeef-77cb-4701-bb0b-09b06cec40fb" alt="image" width="30"/>
 
 RAG (Retrieval-Augmented Generation) is a powerful technique that combines the strengths of retrieval-based and generation-based models. It allows for generating contextually relevant text by retrieving pertinent information from a pre-existing knowledge base. This approach is particularly useful for tasks that require access to a large corpus of information, such as question answering, document summarization, and language translation.
 
