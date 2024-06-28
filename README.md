@@ -4,7 +4,7 @@ RAG (Retrieval-Augmented Generation) is a powerful technique that combines the s
 
 This README has been written with the assistance of ChatGPT to provide clear and concise instructions
 
-Key Components
+## Key Components
 1. Loading PDFs: The project involves loading PDF documents to extract and use their content for retrieval and generation purposes.
 2. Chroma Database: We use the Chroma database for storing embeddings. Chroma is a robust and efficient database designed for managing large-scale vector data.
 3. Nomic Embed Text: For embedding text, we use the nomic-embed-text tool, which provides high-quality text embeddings suitable for retrieval and other downstream tasks.
