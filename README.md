@@ -9,3 +9,4 @@ This README has been written with the assistance of ChatGPT to provide clear and
 2. Chroma Database: We use the Chroma database for storing embeddings. Chroma is a robust and efficient database designed for managing large-scale vector data.
 3. Nomic Embed Text: For embedding text, we use the nomic-embed-text tool, which provides high-quality text embeddings suitable for retrieval and other downstream tasks.
 4. Local LLM with Ollama: We use a local Large Language Model (LLM) with Ollama for generating contextually relevant responses based on the retrieved information.
+ 
